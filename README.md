@@ -39,7 +39,7 @@ Keen to learn new technologies, solve real-world problems, and contribute effect
 ## 🚀 Projects
 
 ### 📦 Inventory Management System
-🔗 GitHub-Link  
+
 A modern full-stack inventory management system built with Laravel as the backend API, Vue.js as the frontend, and Inertia.js for seamless SPA experience.  
 ✨ Features:
 - Real-time inventory tracking  
@@ -51,7 +51,7 @@ A modern full-stack inventory management system built with Laravel as the backen
 ---
 
 ### 🚗 Car Rental Management System
-🔗 GitHub-Link  
+ 
 A comprehensive car rental platform for managing vehicle bookings, customers, and fleet operations.  
 ✨ Features:
 - Online booking system  
@@ -63,7 +63,7 @@ A comprehensive car rental platform for managing vehicle bookings, customers, an
 ---
 
 ### 🎉 Event Management System
-🔗 GitHub-Link  
+ 
 A scalable event management platform with Laravel REST API backend and Vue.js SPA frontend.  
 ✨ Features:
 - Event creation & management  
